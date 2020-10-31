@@ -18,4 +18,4 @@ The "WeatherPy_Database.csv" is imported and filtered based on the user's minimu
 ### Vacation_Itinerary
 The "WeatherPy_vacation.csv" is imported into the script and four cities were chosen to create a vacation itinerary route to travel between the four cities. In this example, "driving was chosen as the travel mode. Using Google Maps Direction APIs, a vacation itinerary is generated between the four cities. Below is an example of the travel itinerary on Google Maps:
 
-![](Vacation_Itinerary/WeatherPy_travel_map.png)
+![](Vacation_Itinerary/WeatherPy_travel_map.PNG)
