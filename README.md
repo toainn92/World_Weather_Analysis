@@ -12,3 +12,4 @@ Numpy random module was used to generate latitude and longitude locations. With 
 ### Vacation_Search
 The "WeatherPy_Database.csv" is imported and filtered based on the user's minimum and maximum temperature for the trip. In this example, the minimum temperature of 45 and maximum temperature of 65 were chosen. After the data frame was filtered, parameters were set to search for hotels within 5000 meters of the location using Google Maps Api. The hotel data was added onto the Data Frame and any rows with no hotels found were cleaned and removed from analysis. An output data was generated from this analysis and saved in "WeatherPy_vacation.csv". Below is an example of the analysis:
 
+![](Vacation_Search/WeatherPy_vacation_map.PNG)
